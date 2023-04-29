@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+}
+#nav{
+    display:flex;
+    background-color: white;
+   /* justify-content: space-between; */
+  
+}
+nav a{
+    text-decoration: none;
+    padding-left: 10px;
+    
+}
+nav span{
+    padding-left: 200px;
+}
+#img1{
+    Width: 50px;
+
+Height: 50px;
+;
+
+}
+#img2{
+    height: 50px;
+width: 50px;
+
+border-radius: 0px;
+
+}
+#img3{
+    height: 50px;
+width: 50px;
+
+border-radius: 0px;
+
+}
+
+ div{
+        width:100%;
+      display: flex;
+    justify-content: space-around;
+  
+
+} 
